@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **My Portfolio**
 
-- 🌱 I’m currently learning **Web Development and Python**
+- 🌱 I’m currently learning **Backend Development**
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Web Development and Python**
 
 - 📫 How to reach me **imharshit9642@gmail.com**
 
