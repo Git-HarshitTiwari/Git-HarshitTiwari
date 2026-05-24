@@ -9,7 +9,7 @@
 - 📫 How to reach me **harshitdtiwari.25@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Thekrakenhead" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Thekrakenhead" height="30" width="40" /></a>
+<a href="https://twitter.com/Thekrakenhead" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Thekrakenhead" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/harshit-tiwari05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshit-tiwari05" height="30" width="40" /></a>
 <a href="https://instagram.com/notfound.harshit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="notfound.harshit" height="30" width="40" /></a>
 </p>
